@@ -16,14 +16,6 @@ import javax.swing.JSlider;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-/*“I did not collaborate with anyone on this Project.” 
-
-Name: Moazzam Salman and Abdul Moid
-NET ID: msalman and amunawar.
-Project 3
-Lab : Tuesday and Thursday (11:05am-12:20pm)
-
-*/
 
 public class GameMain extends JFrame implements ActionListener,ChangeListener  {
 	//Declares all the GUI components and variables to be used a global static variables
